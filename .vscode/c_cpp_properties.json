@@ -1,0 +1,58 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/kaspernyhus/Dropbox (Personlig)/Programming stuff/Arduino Nano/PID_test/include",
+                "/Users/kaspernyhus/Dropbox (Personlig)/Programming stuff/Arduino Nano/PID_test/src",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/kaspernyhus/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/kaspernyhus/Dropbox (Personlig)/Programming stuff/Arduino Nano/PID_test/include",
+                    "/Users/kaspernyhus/Dropbox (Personlig)/Programming stuff/Arduino Nano/PID_test/src",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/Users/kaspernyhus/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/kaspernyhus/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50200",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/kaspernyhus/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
