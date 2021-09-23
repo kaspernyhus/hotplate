@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "max6675.h": "c",
+    "pid_calc.h": "c",
+    "i2c.h": "c",
+    "uart.h": "c",
+    "interrupt.h": "c",
+    "spi.h": "c",
+    "logging.h": "c",
+    "display.h": "c"
+  }
+}
